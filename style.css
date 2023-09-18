@@ -311,9 +311,10 @@ svg {
   width: 445px;
 }
 
-.footer , .primary-header{
+.footer , .common-size{
   width: 100%;
   margin: 0 auto;
+  flex-shrink: 0;
 }
 
 .footer-icon{
