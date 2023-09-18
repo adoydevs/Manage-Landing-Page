@@ -223,6 +223,7 @@ svg {
   line-height: 64px
 }
 
+
 .hero-description{
   max-width: 350px;
   line-height: 26px;
@@ -246,7 +247,7 @@ svg {
 .about-columns{
   display: flex;
   justify-content: space-between;
-  margin-top: 180px;
+  margin-top: 120px;
   background-image: url(./images/Rectangle12.png);
   background-repeat: no-repeat;
   background-position-y: 250px;
